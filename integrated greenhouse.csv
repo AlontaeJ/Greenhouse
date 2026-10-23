@@ -1,0 +1,6 @@
+Date,Time,SensorID,BedID,SoilMoisture_VWC,SoilTemp_F,BatteryLevel,AirTemperature_C,Humidity_Percent,WindSpeed_Mph,Sunlight,Zone,FlowRateGpm,PumpStatus,ActivationMode
+07/15/2026,06:00,SN-4821,BED-1,33.5,70.7,,23.4,93,2.4,,2,4.04,on,
+07/15/2026,06:00,SN-4877,BED-1,33.3,71.0,,23.4,93,2.4,,2,4.04,on,
+07/15/2026,08:00,SN-4821,BED-1,33.0,72.0,,24.4,87,1.8,,,,,
+07/15/2026,10:00,SN-4821,BED-1,32.4,73.7,,27.7,76,5.1,,,,,
+07/15/2026,12:00,SN-4821,BED-1,30.8,79.4,,31.1,59,6.6,,,,,
